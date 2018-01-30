@@ -1,0 +1,15 @@
+产品管理-products
+
+Products_List.html
+Brand_Manage.html
+Category_Manage.html
+
+图片管理-picture
+交易管理-deal
+支付管理-pay
+会员管理-user
+店铺管理-Shop
+消息管理-message
+文章管理-article
+系统管理-Systems
+管理员管理-admin
